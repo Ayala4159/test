@@ -1,7 +1,10 @@
-const a=()=>{
+const a = () => {
     alert("Hello")
 }
-const b=()=>{
+const b = () => {
     alert("5")
     return '5'
+}
+const c = () => {
+    console.log("ccc")
 }
